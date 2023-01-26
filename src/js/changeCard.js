@@ -23,4 +23,6 @@ const nextCard = () => {
   setCardText();
 };
 
+setCardText();
+
 export { previusCard, nextCard };
